@@ -1,0 +1,12 @@
+[submodule "mINI"]
+	path = mINI
+	url = https://github.com/pulzed/mINI
+[submodule "ERSkeletonMan"]
+	path = ERSkeletonMan
+	url = https://github.com/Dasaav-dsv/ERSkeletonMan
+[submodule "minhook"]
+	path = minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "Pattern16"]
+	path = Pattern16
+	url = https://github.com/Dasaav-dsv/Pattern16.git
